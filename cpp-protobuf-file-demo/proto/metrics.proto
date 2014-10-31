@@ -1,0 +1,8 @@
+
+package metrics;
+
+message Header {
+  required int32 contentLength  = 1;
+  optional string contentType   = 2;
+}
+
