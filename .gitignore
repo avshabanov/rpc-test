@@ -1,0 +1,15 @@
+# Idea
+*.iml
+*.ipr
+*.iws
+.idea
+
+# Maven
+target
+
+# Mac
+.DS_Store
+
+# Vim
+*.swp
+
